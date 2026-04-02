@@ -3,3 +3,9 @@ https://github.com/abacaki/aula-02-04-2026
 git clone https://github.com/abacaki/aula-02-04-2026
 
 git status
+
+git add .
+
+git commit -m "Alterando o arquivo texto
+
+git push
